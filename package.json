@@ -1,7 +1,7 @@
 {
   "name": "games",
   "version": "1.0.0",
-  "description": "",
+  "description": "sandbox",
   "main": "index.js",
   "directories": {
     "test": "test"
